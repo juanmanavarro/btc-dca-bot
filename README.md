@@ -1,6 +1,6 @@
 # Binance BTC dollar cost averaging bot
 
-Buy 50 € of BTC every Monday, for now.
+Buy 50 € of BTC every Monday in Binance, for now.
 
 # Instructions
 
