@@ -2,7 +2,7 @@
 
 Buy 50 € of BTC every Monday in Binance, for now.
 
-# Instructions
+## Instructions
 
 - Clone this repo and install all dependencies.
 - `$ cp .env.example .env` and fill all the environment variables.
